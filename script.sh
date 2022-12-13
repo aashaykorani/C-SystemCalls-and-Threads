@@ -1,0 +1,1 @@
+for i in $(seq 1 32); do /usr/bin/echo 3 > /proc/sys/vm/drop_caches; ./fast ubuntu-21.04-desktop-amd64.iso 100000 1000000000 $i >> thread.out;done

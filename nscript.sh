@@ -1,0 +1,1 @@
+for i in $(seq 1 10); do ./system_call 1 $i -s >> system_seek.out;done

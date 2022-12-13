@@ -1,0 +1,720 @@
+Avg blocks_per_thread = 28188
+[Thread 0 read]: 2818738176 bytes in 8.810878s
+
+Time = 8.812161
+Total bytes read = 2818738176.000000
+Speed-o = 175.09 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 14094
+[Thread 0 read]: 1409400000 bytes in 9.694068s
+[Thread 1 read]: 1409338176 bytes in 9.702197s
+
+Time = 9.703542
+Total bytes read = 2818738176.000000
+Speed-o = 229.86 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 9396
+[Thread 1 read]: 939600000 bytes in 15.647655s
+[Thread 2 read]: 939538176 bytes in 15.665945s
+[Thread 0 read]: 939600000 bytes in 15.669220s
+
+Time = 15.670076
+Total bytes read = 2818738176.000000
+Speed-o = 248.36 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 7047
+[Thread 2 read]: 704700000 bytes in 24.710249s
+[Thread 3 read]: 704638176 bytes in 24.712917s
+[Thread 1 read]: 704700000 bytes in 24.714394s
+[Thread 0 read]: 704700000 bytes in 24.806631s
+
+Time = 24.808792
+Total bytes read = 2818738176.000000
+Speed-o = 245.07 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 5638
+[Thread 4 read]: 563538176 bytes in 24.591188s
+[Thread 3 read]: 563800000 bytes in 24.719116s
+[Thread 0 read]: 563800000 bytes in 24.764032s
+[Thread 1 read]: 563800000 bytes in 24.798010s
+[Thread 2 read]: 563800000 bytes in 24.805218s
+
+Time = 24.807837
+Total bytes read = 2818738176.000000
+Speed-o = 307.71 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 4698
+[Thread 1 read]: 469800000 bytes in 20.574013s
+[Thread 5 read]: 469738176 bytes in 20.926304s
+[Thread 3 read]: 469800000 bytes in 20.945021s
+[Thread 0 read]: 469800000 bytes in 20.975445s
+[Thread 4 read]: 469800000 bytes in 20.975719s
+[Thread 2 read]: 469800000 bytes in 20.999701s
+
+Time = 21.003540
+Total bytes read = 2818738176.000000
+Speed-o = 366.64 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 4027
+[Thread 4 read]: 402700000 bytes in 20.721216s
+[Thread 1 read]: 402700000 bytes in 20.734079s
+[Thread 6 read]: 402538176 bytes in 20.832035s
+[Thread 2 read]: 402700000 bytes in 20.871344s
+[Thread 0 read]: 402700000 bytes in 20.909395s
+[Thread 3 read]: 402700000 bytes in 20.927452s
+[Thread 5 read]: 402700000 bytes in 20.935116s
+
+Time = 20.960951
+Total bytes read = 2818738176.000000
+Speed-o = 378.05 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 3524
+[Thread 2 read]: 352400000 bytes in 21.598806s
+[Thread 5 read]: 352400000 bytes in 21.676510s
+[Thread 6 read]: 352400000 bytes in 21.866016s
+[Thread 1 read]: 352400000 bytes in 21.916136s
+[Thread 3 read]: 352400000 bytes in 21.935261s
+[Thread 0 read]: 352400000 bytes in 21.939037s
+[Thread 7 read]: 351938176 bytes in 21.941908s
+[Thread 4 read]: 352400000 bytes in 21.945526s
+
+Time = 21.961729
+Total bytes read = 2818738176.000000
+Speed-o = 396.59 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 3132
+[Thread 0 read]: 313200000 bytes in 22.302174s
+[Thread 5 read]: 313200000 bytes in 22.321476s
+[Thread 4 read]: 313200000 bytes in 22.589687s
+[Thread 7 read]: 313200000 bytes in 22.640837s
+[Thread 3 read]: 313200000 bytes in 22.686815s
+[Thread 8 read]: 313138176 bytes in 22.692936s
+[Thread 6 read]: 313200000 bytes in 22.712881s
+[Thread 1 read]: 313200000 bytes in 22.722015s
+[Thread 2 read]: 313200000 bytes in 22.724024s
+
+Time = 22.727409
+Total bytes read = 2818738176.000000
+Speed-o = 404.90 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 2819
+[Thread 9 read]: 281638176 bytes in 23.808760s
+[Thread 6 read]: 281900000 bytes in 23.961281s
+[Thread 2 read]: 281900000 bytes in 24.002348s
+[Thread 3 read]: 281900000 bytes in 24.047272s
+[Thread 7 read]: 281900000 bytes in 24.080521s
+[Thread 4 read]: 281900000 bytes in 24.104658s
+[Thread 5 read]: 281900000 bytes in 24.109531s
+[Thread 8 read]: 281900000 bytes in 24.101755s
+[Thread 1 read]: 281900000 bytes in 24.126764s
+[Thread 0 read]: 281900000 bytes in 24.132401s
+
+Time = 24.134064
+Total bytes read = 2818738176.000000
+Speed-o = 399.57 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 2563
+[Thread 7 read]: 256300000 bytes in 24.610399s
+[Thread 8 read]: 256300000 bytes in 24.606956s
+[Thread 5 read]: 256300000 bytes in 24.613771s
+[Thread 2 read]: 256300000 bytes in 24.641249s
+[Thread 10 read]: 255738176 bytes in 24.681072s
+[Thread 1 read]: 256300000 bytes in 24.698521s
+[Thread 4 read]: 256300000 bytes in 24.742289s
+[Thread 0 read]: 256300000 bytes in 24.788345s
+[Thread 9 read]: 256300000 bytes in 24.791718s
+[Thread 6 read]: 256300000 bytes in 24.788437s
+[Thread 3 read]: 256300000 bytes in 24.783596s
+
+Time = 24.800632
+Total bytes read = 2818738176.000000
+Speed-o = 393.21 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 2349
+[Thread 1 read]: 234900000 bytes in 25.322617s
+[Thread 0 read]: 234900000 bytes in 25.391674s
+[Thread 6 read]: 234900000 bytes in 25.353315s
+[Thread 7 read]: 234900000 bytes in 25.406668s
+[Thread 4 read]: 234900000 bytes in 25.491793s
+[Thread 3 read]: 234900000 bytes in 25.555391s
+[Thread 9 read]: 234900000 bytes in 25.578695s
+[Thread 11 read]: 234838176 bytes in 25.581306s
+[Thread 2 read]: 234900000 bytes in 25.602877s
+[Thread 10 read]: 234900000 bytes in 25.583788s
+[Thread 8 read]: 234900000 bytes in 25.599443s
+[Thread 5 read]: 234900000 bytes in 25.619894s
+
+Time = 25.661957
+Total bytes read = 2818738176.000000
+Speed-o = 392.66 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 2169
+[Thread 7 read]: 216900000 bytes in 26.310072s
+[Thread 0 read]: 216900000 bytes in 26.385172s
+[Thread 5 read]: 216900000 bytes in 26.383907s
+[Thread 12 read]: 215938176 bytes in 26.399416s
+[Thread 1 read]: 216900000 bytes in 26.463009s
+[Thread 10 read]: 216900000 bytes in 26.463331s
+[Thread 6 read]: 216900000 bytes in 26.510742s
+[Thread 2 read]: 216900000 bytes in 26.520952s
+[Thread 4 read]: 216900000 bytes in 26.566460s
+[Thread 9 read]: 216900000 bytes in 26.563135s
+[Thread 11 read]: 216900000 bytes in 26.568424s
+[Thread 8 read]: 216900000 bytes in 26.575031s
+[Thread 3 read]: 216900000 bytes in 26.589916s
+
+Time = 26.593891
+Total bytes read = 2818738176.000000
+Speed-o = 396.27 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 2014
+[Thread 8 read]: 201400000 bytes in 26.525608s
+[Thread 11 read]: 201400000 bytes in 26.529877s
+[Thread 0 read]: 201400000 bytes in 26.571768s
+[Thread 5 read]: 201400000 bytes in 26.566784s
+[Thread 10 read]: 201400000 bytes in 26.594833s
+[Thread 3 read]: 201400000 bytes in 26.642540s
+[Thread 6 read]: 201400000 bytes in 26.639517s
+[Thread 1 read]: 201400000 bytes in 26.677486s
+[Thread 4 read]: 201400000 bytes in 26.696207s
+[Thread 2 read]: 201400000 bytes in 26.710714s
+[Thread 12 read]: 201400000 bytes in 26.693174s
+[Thread 7 read]: 201400000 bytes in 26.714161s
+[Thread 9 read]: 201400000 bytes in 26.721823s
+[Thread 13 read]: 200538176 bytes in 26.724009s
+
+Time = 26.747564
+Total bytes read = 2818738176.000000
+Speed-o = 396.61 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1880
+[Thread 14 read]: 186738176 bytes in 26.384975s
+[Thread 5 read]: 188000000 bytes in 26.515984s
+[Thread 2 read]: 188000000 bytes in 26.597660s
+[Thread 12 read]: 188000000 bytes in 26.552008s
+[Thread 10 read]: 188000000 bytes in 26.563444s
+[Thread 4 read]: 188000000 bytes in 26.603020s
+[Thread 9 read]: 188000000 bytes in 26.634190s
+[Thread 13 read]: 188000000 bytes in 26.666288s
+[Thread 0 read]: 188000000 bytes in 26.730921s
+[Thread 11 read]: 188000000 bytes in 26.660675s
+[Thread 7 read]: 188000000 bytes in 26.675779s
+[Thread 6 read]: 188000000 bytes in 26.717829s
+[Thread 3 read]: 188000000 bytes in 26.757854s
+[Thread 8 read]: 188000000 bytes in 26.704296s
+[Thread 1 read]: 188000000 bytes in 26.762300s
+
+Time = 26.764725
+Total bytes read = 2818738176.000000
+Speed-o = 392.25 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1762
+[Thread 7 read]: 176200000 bytes in 26.226763s
+[Thread 6 read]: 176200000 bytes in 26.240076s
+[Thread 1 read]: 176200000 bytes in 26.691000s
+[Thread 13 read]: 176200000 bytes in 26.635431s
+[Thread 4 read]: 176200000 bytes in 26.759964s
+[Thread 2 read]: 176200000 bytes in 26.846464s
+[Thread 3 read]: 176200000 bytes in 26.870512s
+[Thread 0 read]: 176200000 bytes in 26.885113s
+[Thread 5 read]: 176200000 bytes in 26.880451s
+[Thread 9 read]: 176200000 bytes in 26.859240s
+[Thread 10 read]: 176200000 bytes in 26.867214s
+[Thread 12 read]: 176200000 bytes in 26.841036s
+[Thread 14 read]: 176200000 bytes in 26.895643s
+[Thread 15 read]: 175738176 bytes in 26.898539s
+[Thread 11 read]: 176200000 bytes in 26.921503s
+[Thread 8 read]: 176200000 bytes in 26.932087s
+
+Time = 27.001127
+Total bytes read = 2818738176.000000
+Speed-o = 399.05 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1659
+[Thread 4 read]: 165900000 bytes in 26.625336s
+[Thread 1 read]: 165900000 bytes in 26.807392s
+[Thread 13 read]: 165900000 bytes in 26.853493s
+[Thread 14 read]: 165900000 bytes in 26.889675s
+[Thread 9 read]: 165900000 bytes in 27.010389s
+[Thread 10 read]: 165900000 bytes in 27.063488s
+[Thread 11 read]: 165900000 bytes in 27.090731s
+[Thread 15 read]: 165900000 bytes in 27.141768s
+[Thread 3 read]: 165900000 bytes in 27.303440s
+[Thread 8 read]: 165900000 bytes in 27.304581s
+[Thread 5 read]: 165900000 bytes in 27.295824s
+[Thread 6 read]: 165900000 bytes in 27.324358s
+[Thread 0 read]: 165900000 bytes in 27.437037s
+[Thread 7 read]: 165900000 bytes in 27.463804s
+[Thread 12 read]: 165900000 bytes in 27.424623s
+[Thread 2 read]: 165900000 bytes in 27.494324s
+[Thread 16 read]: 164338176 bytes in 27.435768s
+
+Time = 27.510530
+Total bytes read = 2818738176.000000
+Speed-o = 398.49 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1566
+[Thread 11 read]: 156600000 bytes in 25.025322s
+[Thread 3 read]: 156600000 bytes in 25.329597s
+[Thread 14 read]: 156600000 bytes in 25.243000s
+[Thread 16 read]: 156600000 bytes in 25.385923s
+[Thread 6 read]: 156600000 bytes in 25.538460s
+[Thread 1 read]: 156600000 bytes in 25.796389s
+[Thread 7 read]: 156600000 bytes in 25.762436s
+[Thread 8 read]: 156600000 bytes in 25.857000s
+[Thread 17 read]: 156538176 bytes in 25.782867s
+[Thread 2 read]: 156600000 bytes in 25.978720s
+[Thread 0 read]: 156600000 bytes in 26.022339s
+[Thread 15 read]: 156600000 bytes in 25.924980s
+[Thread 12 read]: 156600000 bytes in 25.944824s
+[Thread 4 read]: 156600000 bytes in 26.039476s
+[Thread 9 read]: 156600000 bytes in 26.065552s
+[Thread 10 read]: 156600000 bytes in 26.010235s
+[Thread 5 read]: 156600000 bytes in 26.009232s
+[Thread 13 read]: 156600000 bytes in 25.987419s
+
+Time = 26.103392
+Total bytes read = 2818738176.000000
+Speed-o = 404.61 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1484
+[Thread 3 read]: 148400000 bytes in 24.136660s
+[Thread 5 read]: 148400000 bytes in 24.114857s
+[Thread 14 read]: 148400000 bytes in 24.045799s
+[Thread 16 read]: 148400000 bytes in 24.143997s
+[Thread 11 read]: 148400000 bytes in 24.185432s
+[Thread 6 read]: 148400000 bytes in 24.230606s
+[Thread 1 read]: 148400000 bytes in 24.411341s
+[Thread 15 read]: 148400000 bytes in 24.404024s
+[Thread 4 read]: 148400000 bytes in 24.497841s
+[Thread 18 read]: 147538176 bytes in 24.514362s
+[Thread 7 read]: 148400000 bytes in 24.586500s
+[Thread 9 read]: 148400000 bytes in 24.588736s
+[Thread 13 read]: 148400000 bytes in 24.591440s
+[Thread 8 read]: 148400000 bytes in 24.617353s
+[Thread 10 read]: 148400000 bytes in 24.601055s
+[Thread 12 read]: 148400000 bytes in 24.608072s
+[Thread 17 read]: 148400000 bytes in 24.577929s
+[Thread 2 read]: 148400000 bytes in 24.669424s
+[Thread 0 read]: 148400000 bytes in 24.676727s
+
+Time = 24.684820
+Total bytes read = 2818738176.000000
+Speed-o = 410.05 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1410
+[Thread 19 read]: 139738176 bytes in 23.734837s
+[Thread 14 read]: 141000000 bytes in 24.215897s
+[Thread 12 read]: 141000000 bytes in 24.286398s
+[Thread 3 read]: 141000000 bytes in 24.485460s
+[Thread 6 read]: 141000000 bytes in 24.425047s
+[Thread 16 read]: 141000000 bytes in 24.486946s
+[Thread 8 read]: 141000000 bytes in 24.569948s
+[Thread 18 read]: 141000000 bytes in 24.534489s
+[Thread 17 read]: 141000000 bytes in 24.601433s
+[Thread 11 read]: 141000000 bytes in 24.674557s
+[Thread 7 read]: 141000000 bytes in 24.717012s
+[Thread 2 read]: 141000000 bytes in 24.749208s
+[Thread 10 read]: 141000000 bytes in 24.724773s
+[Thread 4 read]: 141000000 bytes in 24.793819s
+[Thread 5 read]: 141000000 bytes in 24.799965s
+[Thread 9 read]: 141000000 bytes in 24.775331s
+[Thread 1 read]: 141000000 bytes in 24.835688s
+[Thread 13 read]: 141000000 bytes in 24.773664s
+[Thread 15 read]: 141000000 bytes in 24.793730s
+[Thread 0 read]: 141000000 bytes in 24.872812s
+
+Time = 24.875839
+Total bytes read = 2818738176.000000
+Speed-o = 402.95 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1343
+[Thread 11 read]: 134300000 bytes in 23.162567s
+[Thread 20 read]: 132738176 bytes in 23.353971s
+[Thread 1 read]: 134300000 bytes in 23.598429s
+[Thread 3 read]: 134300000 bytes in 23.660892s
+[Thread 4 read]: 134300000 bytes in 23.688885s
+[Thread 5 read]: 134300000 bytes in 23.704201s
+[Thread 15 read]: 134300000 bytes in 23.704634s
+[Thread 2 read]: 134300000 bytes in 23.757732s
+[Thread 0 read]: 134300000 bytes in 23.762903s
+[Thread 6 read]: 134300000 bytes in 23.768871s
+[Thread 12 read]: 134300000 bytes in 23.766014s
+[Thread 19 read]: 134300000 bytes in 23.792042s
+[Thread 8 read]: 134300000 bytes in 23.853567s
+[Thread 16 read]: 134300000 bytes in 23.799671s
+[Thread 14 read]: 134300000 bytes in 23.847456s
+[Thread 13 read]: 134300000 bytes in 23.852800s
+[Thread 9 read]: 134300000 bytes in 23.905706s
+[Thread 7 read]: 134300000 bytes in 23.904591s
+[Thread 17 read]: 134300000 bytes in 23.856066s
+[Thread 18 read]: 134300000 bytes in 23.867588s
+[Thread 10 read]: 134300000 bytes in 23.875072s
+
+Time = 23.941259
+Total bytes read = 2818738176.000000
+Speed-o = 409.70 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1282
+[Thread 21 read]: 126538176 bytes in 23.308531s
+[Thread 3 read]: 128200000 bytes in 23.726215s
+[Thread 1 read]: 128200000 bytes in 23.772976s
+[Thread 14 read]: 128200000 bytes in 23.673445s
+[Thread 5 read]: 128200000 bytes in 23.800615s
+[Thread 20 read]: 128200000 bytes in 23.702141s
+[Thread 0 read]: 128200000 bytes in 23.873205s
+[Thread 9 read]: 128200000 bytes in 23.863956s
+[Thread 10 read]: 128200000 bytes in 23.861343s
+[Thread 2 read]: 128200000 bytes in 23.943857s
+[Thread 17 read]: 128200000 bytes in 23.931732s
+[Thread 15 read]: 128200000 bytes in 23.935608s
+[Thread 6 read]: 128200000 bytes in 24.059565s
+[Thread 8 read]: 128200000 bytes in 24.040188s
+[Thread 12 read]: 128200000 bytes in 24.099400s
+[Thread 16 read]: 128200000 bytes in 24.116348s
+[Thread 4 read]: 128200000 bytes in 24.225677s
+[Thread 13 read]: 128200000 bytes in 24.102684s
+[Thread 19 read]: 128200000 bytes in 24.116261s
+[Thread 7 read]: 128200000 bytes in 24.205332s
+[Thread 11 read]: 128200000 bytes in 24.138056s
+[Thread 18 read]: 128200000 bytes in 24.135328s
+
+Time = 24.265520
+Total bytes read = 2818738176.000000
+Speed-o = 407.27 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1226
+[Thread 18 read]: 122600000 bytes in 22.504078s
+[Thread 1 read]: 122600000 bytes in 22.823557s
+[Thread 3 read]: 122600000 bytes in 22.937971s
+[Thread 9 read]: 122600000 bytes in 22.869041s
+[Thread 22 read]: 121538176 bytes in 22.908022s
+[Thread 4 read]: 122600000 bytes in 23.047272s
+[Thread 8 read]: 122600000 bytes in 23.021015s
+[Thread 0 read]: 122600000 bytes in 23.058661s
+[Thread 7 read]: 122600000 bytes in 23.054949s
+[Thread 5 read]: 122600000 bytes in 23.138676s
+[Thread 19 read]: 122600000 bytes in 23.075401s
+[Thread 2 read]: 122600000 bytes in 23.158779s
+[Thread 20 read]: 122600000 bytes in 23.110409s
+[Thread 21 read]: 122600000 bytes in 23.161411s
+[Thread 10 read]: 122600000 bytes in 23.201096s
+[Thread 15 read]: 122600000 bytes in 23.207617s
+[Thread 6 read]: 122600000 bytes in 23.270292s
+[Thread 16 read]: 122600000 bytes in 23.249828s
+[Thread 14 read]: 122600000 bytes in 23.274611s
+[Thread 13 read]: 122600000 bytes in 23.294411s
+[Thread 11 read]: 122600000 bytes in 23.299404s
+[Thread 17 read]: 122600000 bytes in 23.290085s
+[Thread 12 read]: 122600000 bytes in 23.278002s
+
+Time = 23.379406
+Total bytes read = 2818738176.000000
+Speed-o = 418.94 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1175
+[Thread 1 read]: 117500000 bytes in 22.200283s
+[Thread 0 read]: 117500000 bytes in 22.388636s
+[Thread 23 read]: 116238176 bytes in 22.492352s
+[Thread 17 read]: 117500000 bytes in 22.532608s
+[Thread 19 read]: 117500000 bytes in 22.571571s
+[Thread 8 read]: 117500000 bytes in 22.605438s
+[Thread 3 read]: 117500000 bytes in 22.687046s
+[Thread 7 read]: 117500000 bytes in 22.671862s
+[Thread 21 read]: 117500000 bytes in 22.661167s
+[Thread 14 read]: 117500000 bytes in 22.810976s
+[Thread 20 read]: 117500000 bytes in 22.828873s
+[Thread 16 read]: 117500000 bytes in 22.854784s
+[Thread 10 read]: 117500000 bytes in 22.879934s
+[Thread 13 read]: 117500000 bytes in 22.920061s
+[Thread 18 read]: 117500000 bytes in 22.892252s
+[Thread 5 read]: 117500000 bytes in 22.981447s
+[Thread 2 read]: 117500000 bytes in 23.024712s
+[Thread 9 read]: 117500000 bytes in 23.025541s
+[Thread 22 read]: 117500000 bytes in 22.982384s
+[Thread 15 read]: 117500000 bytes in 23.076626s
+[Thread 4 read]: 117500000 bytes in 23.115698s
+[Thread 12 read]: 117500000 bytes in 23.004007s
+[Thread 6 read]: 117500000 bytes in 23.127308s
+[Thread 11 read]: 117500000 bytes in 23.078798s
+
+Time = 23.157707
+Total bytes read = 2818738176.000000
+Speed-o = 413.03 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1128
+[Thread 1 read]: 112800000 bytes in 22.443195s
+[Thread 2 read]: 112800000 bytes in 22.783836s
+[Thread 3 read]: 112800000 bytes in 22.809711s
+[Thread 0 read]: 112800000 bytes in 22.895874s
+[Thread 5 read]: 112800000 bytes in 22.922581s
+[Thread 24 read]: 111538176 bytes in 23.032364s
+[Thread 4 read]: 112800000 bytes in 23.167969s
+[Thread 19 read]: 112800000 bytes in 23.203360s
+[Thread 8 read]: 112800000 bytes in 23.233704s
+[Thread 23 read]: 112800000 bytes in 23.278368s
+[Thread 7 read]: 112800000 bytes in 23.370508s
+[Thread 9 read]: 112800000 bytes in 23.254396s
+[Thread 11 read]: 112800000 bytes in 23.393053s
+[Thread 15 read]: 112800000 bytes in 23.387665s
+[Thread 18 read]: 112800000 bytes in 23.439098s
+[Thread 21 read]: 112800000 bytes in 23.454271s
+[Thread 20 read]: 112800000 bytes in 23.467863s
+[Thread 12 read]: 112800000 bytes in 23.517879s
+[Thread 14 read]: 112800000 bytes in 23.502068s
+[Thread 6 read]: 112800000 bytes in 23.569683s
+[Thread 22 read]: 112800000 bytes in 23.567200s
+[Thread 16 read]: 112800000 bytes in 23.577021s
+[Thread 17 read]: 112800000 bytes in 23.584175s
+[Thread 10 read]: 112800000 bytes in 23.612524s
+[Thread 13 read]: 112800000 bytes in 23.578381s
+
+Time = 23.637259
+Total bytes read = 2818738176.000000
+Speed-o = 415.76 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1085
+[Thread 25 read]: 106238176 bytes in 21.641670s
+[Thread 2 read]: 108500000 bytes in 21.923061s
+[Thread 6 read]: 108500000 bytes in 22.062769s
+[Thread 0 read]: 108500000 bytes in 22.193993s
+[Thread 4 read]: 108500000 bytes in 22.223400s
+[Thread 24 read]: 108500000 bytes in 22.103939s
+[Thread 7 read]: 108500000 bytes in 22.379860s
+[Thread 17 read]: 108500000 bytes in 22.294069s
+[Thread 21 read]: 108500000 bytes in 22.251564s
+[Thread 3 read]: 108500000 bytes in 22.446251s
+[Thread 5 read]: 108500000 bytes in 22.454369s
+[Thread 8 read]: 108500000 bytes in 22.437033s
+[Thread 1 read]: 108500000 bytes in 22.607925s
+[Thread 23 read]: 108500000 bytes in 22.435562s
+[Thread 10 read]: 108500000 bytes in 22.493664s
+[Thread 18 read]: 108500000 bytes in 22.533270s
+[Thread 9 read]: 108500000 bytes in 22.643415s
+[Thread 15 read]: 108500000 bytes in 22.611633s
+[Thread 20 read]: 108500000 bytes in 22.563364s
+[Thread 16 read]: 108500000 bytes in 22.589617s
+[Thread 19 read]: 108500000 bytes in 22.630199s
+[Thread 12 read]: 108500000 bytes in 22.677637s
+[Thread 22 read]: 108500000 bytes in 22.613472s
+[Thread 11 read]: 108500000 bytes in 22.707340s
+[Thread 14 read]: 108500000 bytes in 22.661341s
+[Thread 13 read]: 108500000 bytes in 22.717163s
+
+Time = 22.831991
+Total bytes read = 2818738176.000000
+Speed-o = 413.85 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1044
+[Thread 0 read]: 104400000 bytes in 20.194756s
+[Thread 3 read]: 104400000 bytes in 20.384604s
+[Thread 7 read]: 104400000 bytes in 20.449804s
+[Thread 2 read]: 104400000 bytes in 20.538702s
+[Thread 25 read]: 104400000 bytes in 20.599873s
+[Thread 8 read]: 104400000 bytes in 20.733576s
+[Thread 19 read]: 104400000 bytes in 20.770996s
+[Thread 26 read]: 104338176 bytes in 20.771437s
+[Thread 21 read]: 104400000 bytes in 20.725536s
+[Thread 24 read]: 104400000 bytes in 20.873976s
+[Thread 17 read]: 104400000 bytes in 20.917149s
+[Thread 18 read]: 104400000 bytes in 20.990450s
+[Thread 5 read]: 104400000 bytes in 20.990177s
+[Thread 11 read]: 104400000 bytes in 21.027311s
+[Thread 22 read]: 104400000 bytes in 20.999493s
+[Thread 6 read]: 104400000 bytes in 21.057570s
+[Thread 14 read]: 104400000 bytes in 21.103340s
+[Thread 23 read]: 104400000 bytes in 21.066372s
+[Thread 10 read]: 104400000 bytes in 21.118769s
+[Thread 12 read]: 104400000 bytes in 21.143610s
+[Thread 1 read]: 104400000 bytes in 21.177044s
+[Thread 20 read]: 104400000 bytes in 21.080084s
+[Thread 9 read]: 104400000 bytes in 21.129980s
+[Thread 16 read]: 104400000 bytes in 21.132591s
+[Thread 13 read]: 104400000 bytes in 21.118374s
+[Thread 4 read]: 104400000 bytes in 21.160032s
+[Thread 15 read]: 104400000 bytes in 21.120174s
+
+Time = 21.191916
+Total bytes read = 2818738176.000000
+Speed-o = 427.71 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 1007
+[Thread 2 read]: 100700000 bytes in 20.247480s
+[Thread 0 read]: 100700000 bytes in 20.279312s
+[Thread 7 read]: 100700000 bytes in 20.456173s
+[Thread 10 read]: 100700000 bytes in 20.526964s
+[Thread 27 read]: 99838176 bytes in 20.477686s
+[Thread 1 read]: 100700000 bytes in 20.605307s
+[Thread 22 read]: 100700000 bytes in 20.557312s
+[Thread 6 read]: 100700000 bytes in 20.631744s
+[Thread 9 read]: 100700000 bytes in 20.631296s
+[Thread 12 read]: 100700000 bytes in 20.614212s
+[Thread 21 read]: 100700000 bytes in 20.622976s
+[Thread 18 read]: 100700000 bytes in 20.644703s
+[Thread 19 read]: 100700000 bytes in 20.665390s
+[Thread 8 read]: 100700000 bytes in 20.768312s
+[Thread 4 read]: 100700000 bytes in 20.804512s
+[Thread 20 read]: 100700000 bytes in 20.712269s
+[Thread 3 read]: 100700000 bytes in 20.830473s
+[Thread 13 read]: 100700000 bytes in 20.820469s
+[Thread 24 read]: 100700000 bytes in 20.814272s
+[Thread 25 read]: 100700000 bytes in 20.827017s
+[Thread 11 read]: 100700000 bytes in 20.856691s
+[Thread 26 read]: 100700000 bytes in 20.858347s
+[Thread 23 read]: 100700000 bytes in 20.874439s
+[Thread 5 read]: 100700000 bytes in 20.961161s
+[Thread 17 read]: 100700000 bytes in 20.874350s
+[Thread 15 read]: 100700000 bytes in 20.899992s
+[Thread 16 read]: 100700000 bytes in 20.895508s
+[Thread 14 read]: 100700000 bytes in 20.912760s
+
+Time = 21.010368
+Total bytes read = 2818738176.000000
+Speed-o = 424.46 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 972
+[Thread 9 read]: 97200000 bytes in 20.095348s
+[Thread 2 read]: 97200000 bytes in 20.433323s
+[Thread 0 read]: 97200000 bytes in 20.470917s
+[Thread 1 read]: 97200000 bytes in 20.502453s
+[Thread 12 read]: 97200000 bytes in 20.518900s
+[Thread 5 read]: 97200000 bytes in 20.554611s
+[Thread 13 read]: 97200000 bytes in 20.672825s
+[Thread 7 read]: 97200000 bytes in 20.705597s
+[Thread 19 read]: 97200000 bytes in 20.577305s
+[Thread 26 read]: 97200000 bytes in 20.547802s
+[Thread 6 read]: 97200000 bytes in 20.731899s
+[Thread 24 read]: 97200000 bytes in 20.557388s
+[Thread 4 read]: 97200000 bytes in 20.719591s
+[Thread 8 read]: 97200000 bytes in 20.781820s
+[Thread 27 read]: 97200000 bytes in 20.637154s
+[Thread 20 read]: 97200000 bytes in 20.676001s
+[Thread 16 read]: 97200000 bytes in 20.852957s
+[Thread 25 read]: 97200000 bytes in 20.786341s
+[Thread 11 read]: 97200000 bytes in 20.892817s
+[Thread 22 read]: 97200000 bytes in 20.830048s
+[Thread 28 read]: 97138176 bytes in 20.843044s
+[Thread 3 read]: 97200000 bytes in 21.063864s
+[Thread 10 read]: 97200000 bytes in 21.038525s
+[Thread 21 read]: 97200000 bytes in 20.900736s
+[Thread 18 read]: 97200000 bytes in 20.920574s
+[Thread 17 read]: 97200000 bytes in 21.011316s
+[Thread 23 read]: 97200000 bytes in 20.933187s
+[Thread 14 read]: 97200000 bytes in 21.015245s
+[Thread 15 read]: 97200000 bytes in 21.009836s
+
+Time = 21.141247
+Total bytes read = 2818738176.000000
+Speed-o = 420.55 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 940
+[Thread 10 read]: 94000000 bytes in 19.590004s
+[Thread 28 read]: 94000000 bytes in 19.929552s
+[Thread 3 read]: 94000000 bytes in 20.092541s
+[Thread 22 read]: 94000000 bytes in 19.981670s
+[Thread 12 read]: 94000000 bytes in 20.053928s
+[Thread 11 read]: 94000000 bytes in 19.974976s
+[Thread 27 read]: 94000000 bytes in 20.079111s
+[Thread 13 read]: 94000000 bytes in 20.113617s
+[Thread 8 read]: 94000000 bytes in 20.146124s
+[Thread 4 read]: 94000000 bytes in 20.265232s
+[Thread 1 read]: 94000000 bytes in 20.284113s
+[Thread 21 read]: 94000000 bytes in 20.236095s
+[Thread 9 read]: 94000000 bytes in 20.267723s
+[Thread 20 read]: 94000000 bytes in 20.288370s
+[Thread 29 read]: 92738176 bytes in 20.366749s
+[Thread 6 read]: 94000000 bytes in 20.451500s
+[Thread 26 read]: 94000000 bytes in 20.432924s
+[Thread 25 read]: 94000000 bytes in 20.438292s
+[Thread 0 read]: 94000000 bytes in 20.571896s
+[Thread 24 read]: 94000000 bytes in 20.498713s
+[Thread 7 read]: 94000000 bytes in 20.555931s
+[Thread 23 read]: 94000000 bytes in 20.519016s
+[Thread 17 read]: 94000000 bytes in 20.542736s
+[Thread 14 read]: 94000000 bytes in 20.516056s
+[Thread 2 read]: 94000000 bytes in 20.634399s
+[Thread 18 read]: 94000000 bytes in 20.532627s
+[Thread 19 read]: 94000000 bytes in 20.550344s
+[Thread 15 read]: 94000000 bytes in 20.582888s
+[Thread 16 read]: 94000000 bytes in 20.583704s
+[Thread 5 read]: 94000000 bytes in 20.662964s
+
+Time = 20.676331
+Total bytes read = 2818738176.000000
+Speed-o = 416.70 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 910
+[Thread 22 read]: 91000000 bytes in 18.385403s
+[Thread 4 read]: 91000000 bytes in 18.516459s
+[Thread 6 read]: 91000000 bytes in 18.491920s
+[Thread 5 read]: 91000000 bytes in 18.494968s
+[Thread 1 read]: 91000000 bytes in 18.567909s
+[Thread 0 read]: 91000000 bytes in 18.577400s
+[Thread 28 read]: 91000000 bytes in 18.465616s
+[Thread 12 read]: 91000000 bytes in 18.551121s
+[Thread 10 read]: 91000000 bytes in 18.612247s
+[Thread 30 read]: 88738176 bytes in 18.567411s
+[Thread 3 read]: 91000000 bytes in 18.770107s
+[Thread 9 read]: 91000000 bytes in 18.715202s
+[Thread 27 read]: 91000000 bytes in 18.647644s
+[Thread 24 read]: 91000000 bytes in 18.762648s
+[Thread 23 read]: 91000000 bytes in 18.818024s
+[Thread 7 read]: 91000000 bytes in 18.962658s
+[Thread 2 read]: 91000000 bytes in 19.004480s
+[Thread 21 read]: 91000000 bytes in 18.987535s
+[Thread 29 read]: 91000000 bytes in 18.964485s
+[Thread 26 read]: 91000000 bytes in 19.041759s
+[Thread 11 read]: 91000000 bytes in 19.113283s
+[Thread 25 read]: 91000000 bytes in 19.057730s
+[Thread 13 read]: 91000000 bytes in 19.101646s
+[Thread 14 read]: 91000000 bytes in 19.168816s
+[Thread 8 read]: 91000000 bytes in 19.198460s
+[Thread 20 read]: 91000000 bytes in 19.168344s
+[Thread 17 read]: 91000000 bytes in 19.240078s
+[Thread 16 read]: 91000000 bytes in 19.249350s
+[Thread 18 read]: 91000000 bytes in 19.296583s
+[Thread 15 read]: 91000000 bytes in 19.271685s
+[Thread 19 read]: 91000000 bytes in 19.289476s
+
+Time = 19.394283
+Total bytes read = 2818738176.000000
+Speed-o = 420.80 MB/s
+XOR a7eeb2d9
+Avg blocks_per_thread = 881
+[Thread 2 read]: 88100000 bytes in 21.500248s
+[Thread 10 read]: 88100000 bytes in 21.617834s
+[Thread 1 read]: 88100000 bytes in 21.856762s
+[Thread 30 read]: 88100000 bytes in 21.764908s
+[Thread 31 read]: 87638176 bytes in 21.796331s
+[Thread 29 read]: 88100000 bytes in 21.819702s
+[Thread 28 read]: 88100000 bytes in 21.869476s
+[Thread 6 read]: 88100000 bytes in 22.079191s
+[Thread 4 read]: 88100000 bytes in 22.108976s
+[Thread 3 read]: 88100000 bytes in 22.145784s
+[Thread 7 read]: 88100000 bytes in 22.315645s
+[Thread 24 read]: 88100000 bytes in 22.258169s
+[Thread 13 read]: 88100000 bytes in 22.325228s
+[Thread 5 read]: 88100000 bytes in 22.435497s
+[Thread 11 read]: 88100000 bytes in 22.386189s
+[Thread 27 read]: 88100000 bytes in 22.367184s
+[Thread 26 read]: 88100000 bytes in 22.410770s
+[Thread 14 read]: 88100000 bytes in 22.462116s
+[Thread 0 read]: 88100000 bytes in 22.599016s
+[Thread 12 read]: 88100000 bytes in 22.516464s
+[Thread 8 read]: 88100000 bytes in 22.646030s
+[Thread 25 read]: 88100000 bytes in 22.586180s
+[Thread 9 read]: 88100000 bytes in 22.704180s
+[Thread 23 read]: 88100000 bytes in 22.734131s
+[Thread 18 read]: 88100000 bytes in 22.746248s
+[Thread 20 read]: 88100000 bytes in 22.744919s
+[Thread 21 read]: 88100000 bytes in 22.803305s
+[Thread 19 read]: 88100000 bytes in 22.883371s
+[Thread 16 read]: 88100000 bytes in 22.899292s
+[Thread 22 read]: 88100000 bytes in 22.909222s
+[Thread 17 read]: 88100000 bytes in 22.931179s
+[Thread 15 read]: 88100000 bytes in 22.948112s
+
+Time = 23.080368
+Total bytes read = 2818738176.000000
+Speed-o = 342.56 MB/s
+XOR a7eeb2d9
