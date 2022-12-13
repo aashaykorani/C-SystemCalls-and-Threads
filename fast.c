@@ -28,8 +28,8 @@ unsigned int xorbuf(unsigned int *buffer, int size) {
 void checker(int argc, char* argv[]){
 
     if(argc<2){
-        printf("Usage: ./threaded <filename> [optional: <block_size> (default: 100000) <block_count> (default: 10^9) <number_of_threads> (default: 30)]\n");
-        printf("Example: ./threaded input.txt\nExample: ./threaded input.txt 50 200\nExample: ./threaded input.txt 50 200 12\n");
+        printf("Usage: ./fast <filename> [optional: <block_size> (default: 100000) <block_count> (default: 10^9) <number_of_threads> (default: 30)]\n");
+        printf("Example: ./fast input.txt\nExample: ./fast input.txt 50 200\nExample: ./fast input.txt 50 200 12\n");
         exit(1);
     }
 
