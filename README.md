@@ -1,4 +1,6 @@
-<h1 align=center>Final Project</h1>
+<h1 align=center>Operating System Final Project</h1>
+
+This project aims at analyzing and imporving the read and write speed of a file in C using only the system calls.
 
 <!-- <style>
     .code{
