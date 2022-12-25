@@ -1,10 +1,10 @@
 <h1 align=center>Final Project</h1>
 
-<style>
+<!-- <style>
     .code{
         color:brown;
     }
-</style>
+</style> -->
 
 ### 1. Basics
 ---
