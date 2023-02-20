@@ -1,8 +1,14 @@
+# Analyzing System Call Speeds in C
+
 ## Goal
 
 The project is centered around performance.
 
 We will try to get disk I/O as fast as possible and evaluate the effects of caches and the cost of system calls. In the end you should have a good understanding of what sits in the way between your process requesting data from disk and receiving it.
+
+## Final Report
+
+Click [here]() to view my final report for this project.
 
 ## Breakdown
 
