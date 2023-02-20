@@ -1,4 +1,4 @@
-# Analyzing System Call Speeds in C
+# Analyzing and improving System Call Speeds in C with Pthreads
 
 ## Goal
 
@@ -8,7 +8,7 @@ We will try to get disk I/O as fast as possible and evaluate the effects of cach
 
 ## Final Report
 
-Click [here]() to view my final report for this project.
+Click [here](https://github.com/aashaykorani/os_project/blob/master/Report.md) to view my final report for this project.
 
 ## Breakdown
 
