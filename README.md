@@ -1,4 +1,4 @@
-# Analyzing and improving System Call Speeds in C with Pthreads
+# Analyzing and Improving System Call Speeds in C with Pthreads
 
 ## Goal
 
